@@ -6,7 +6,15 @@ var videos = [
   'jSUktpwNpsQ',
   'wXzg0D-cKds',
   'wHwyca7gu7E',
-  'U0A23e2rHWM'
+  'U0A23e2rHWM',
+  'fJp7faTtJ_w',
+  'MRXk_zK-Ccw',
+  'kHXaMJ-ED6g',
+  'l1TV0phSP-c',
+  '_FluQ7Gl_Ns',
+  'L-sJSg35Yvo',
+  'jVOZeT2W6Bo',
+  'KCnwz5yhsok'
 ];
 
 var video = videos[Math.floor(Math.random()*videos.length)];
