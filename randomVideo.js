@@ -14,7 +14,21 @@ var videos = [
   '_FluQ7Gl_Ns',
   'L-sJSg35Yvo',
   'jVOZeT2W6Bo',
-  'KCnwz5yhsok'
+  'KCnwz5yhsok',
+  'RoJju00K6SI',
+  'LjL2tMGmMdA',
+  'uP_SQqWTFb4',
+  'r8heVXGjVlY',
+  'eExCYM9jEPI',
+  'LNXOAO7cAUM',
+  'L2h2lemgT3Q',
+  'ArAnPKXVGRM',
+  'MXy6dWy3Xic',
+  'onG6mfnM9BM',
+  '5TqzGlSyToA',
+  'krlC_2TgO-0',
+  'Azdr2fxHpl4',
+  'v0J2WZXh0Ks'
 ];
 
 var video = videos[Math.floor(Math.random()*videos.length)];
